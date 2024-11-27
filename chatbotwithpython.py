@@ -1,4 +1,4 @@
-# Dataset for customer service chatbot
+
 dataset = {
     "greeting": {
         "keywords": ["hello", "hi", "greetings", "hey"],
